@@ -9,11 +9,9 @@ $this->title = 'Palace Resorts';
     <div class="jumbotron">
         <h1>Bienvenido</h1>
 
-        <p class="lead">Control de Horarios</p>
-        
-        <img src="../views/layouts/imagenes/servidor.png" width="400" height="280"/>
+        <p class="lead">You have successfully created your Yii-powered application.</p>
 
-        <p><a class="btn btn-lg btn-success" href="/autoope/frontend/web/index.php?r=site%2Flogin" >Inicia sesion</a></p>
+        <p><a class="btn btn-lg btn-success" href="../views/site/login.php">Inicia sesion</a></p>
     </div>
 
     <div class="body-content">
@@ -21,14 +19,12 @@ $this->title = 'Palace Resorts';
         <div class="row">
             <div class="col-lg-4">
 
-
-
             </div>
             <div class="col-lg-4">
 
             </div>
             <div class="col-lg-4">
-
+                
             </div>
         </div>
 
